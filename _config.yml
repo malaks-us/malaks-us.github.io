@@ -17,8 +17,8 @@ baseurl: ""
 
 # set site author
 author:
-  name: Tammy
-  url: http://tammy.malaks.us
+  name: Malaks
+  url: http://malaks-us.github.io
 
 # set url for the contact form
 form:
