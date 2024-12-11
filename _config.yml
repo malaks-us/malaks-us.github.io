@@ -202,7 +202,7 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _sass
-  style: :expanded
+  style: expanded
 
 jekyll_tidy:
   compress_html: true
